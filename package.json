@@ -2,8 +2,8 @@
   "name": "api-fronter-com node example",
   "version": "0.0.0",
   "dependencies": {
-    "express": "2.x.x",
-    "ejs": "0.7.x",
+    "express": "4.x.x",
+    "ejs": "2.5.x",
     "node-rest-client": "x.x.x"
   }
 }
